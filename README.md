@@ -5,7 +5,6 @@ The Online SkeinCoin Wallet Generator. Create your Single Wallet, Paper Wallet, 
 
 
 Consider a donation to improve this SkeinCoin project:
-<br><b> SKC:</b> SUztM5rLjt5cZVamBH891H5rsaQoye8BGH
 <br><b> BTC:</b> 194rKUSpG5M5eq5CQs8JnGhn91PnmNrf5Y
 
 or to the developers of bitaddress.org.
