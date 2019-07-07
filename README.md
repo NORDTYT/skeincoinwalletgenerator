@@ -6,7 +6,7 @@ The Online SkeinCoin Wallet Generator. Create your Single Wallet, Paper Wallet, 
 
 Consider a donation to improve this SkeinCoin project:
 <br><b> SKC:</b> SUztM5rLjt5cZVamBH891H5rsaQoye8BGH
-<br><b> BTC:</b> 1FzL6hb9Xy142SzhRPLYU7wekj93ipTthn
+<br><b> BTC:</b> 194rKUSpG5M5eq5CQs8JnGhn91PnmNrf5Y
 
 or to the developers of bitaddress.org.
 
@@ -14,7 +14,7 @@ This project is powered by bitaddress.org source code: https://github.com/pointb
 
 --------------------------------------
 Would you like to have a Wallet Generator for your coin? 
-Send an e-mail to d.MethMatician@gmail.com 
+Send an e-mail to andreashuev@gmail.com
 
 --------------------------------------
 
@@ -36,7 +36,7 @@ https://bitcointalk.org/index.php?topic=43496.0
 
 
 Please send DONATIONS for this project to Bitcoin Address: 
-1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
+194rKUSpG5M5eq5CQs8JnGhn91PnmNrf5Y
 
 
 END USER NOTES: 
